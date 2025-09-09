@@ -11,7 +11,6 @@
 </div>
 
 <div align="center">
-<a href="https://www.producthunt.com/products/teable?embed=true&utm_source=badge-featured&utm_medium=badge&utm_source=badge-teable&#0045;2" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=984142&theme=light&t=1757399990820" alt="Teable - The&#0032;first&#0032;AI&#0032;Database&#0032;Agent&#0032;that&#0032;transforms&#0032;data&#0032;into&#0032;action | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 <a href="https://trendshift.io/repositories/8516" target="_blank"><img src="https://trendshift.io/api/badge/repositories/8516" alt="teableio%2Fteable | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 </div>
 
@@ -28,9 +27,6 @@
   </a>
   <a aria-label="Coverage Status" href="https://coveralls.io/github/teableio/teable?branch=develop">
     <img alt="Coverage" src="https://coveralls.io/repos/github/teableio/teable/badge.svg?branch=develop" />
-  </a>
-  <a aria-label="CodeClimate technical debt" href="https://codeclimate.com/github/teableio/teable">
-    <img alt="Techdebt" src="https://img.shields.io/codeclimate/tech-debt/teableio/teable?label=TechDebt&logo=code-climate&style=flat-quare&labelColor=000000" />
   </a>
   <a aria-label="Codacy grade" href="https://www.codacy.com/gh/teableio/teable/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=teableio/teable&amp;utm_campaign=Badge_Grade">
     <img alt="Codacy grade" src="https://img.shields.io/codacy/grade/dff9c944af284a0fad4e165eb1727467?logo=codacy&style=flat-square&labelColor=000&label=Codacy">
